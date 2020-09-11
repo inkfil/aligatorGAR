@@ -1,0 +1,1 @@
+/usr/bin/c++.exe   -Wl,--enable-auto-import CMakeFiles/hellocrow.dir/main.cpp.o  -o hellocrow.exe -Wl,--out-implib,libhellocrow.dll.a -Wl,--major-image-version,0,--minor-image-version,0  /usr/lib/libboost_system.dll.a /usr/lib/libboost_filesystem.dll.a -lpthread 
