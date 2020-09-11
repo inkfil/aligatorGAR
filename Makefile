@@ -68,10 +68,10 @@ RM = /usr/bin/cmake.exe -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/manish/gsldemo/webpp/hellocrow
+CMAKE_SOURCE_DIR = /home/manish/gsldemo/webpp/aligatorGAR
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/manish/gsldemo/webpp/hellocrow
+CMAKE_BINARY_DIR = /home/manish/gsldemo/webpp/aligatorGAR
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -100,9 +100,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/manish/gsldemo/webpp/hellocrow/CMakeFiles /home/manish/gsldemo/webpp/hellocrow/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/manish/gsldemo/webpp/aligatorGAR/CMakeFiles /home/manish/gsldemo/webpp/aligatorGAR/CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/manish/gsldemo/webpp/hellocrow/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/manish/gsldemo/webpp/aligatorGAR/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/manish/gsldemo/webpp/hellocrow/crow_all.h
+/home/manish/gsldemo/webpp/aligatorGAR/crow_all.h
 stdio.h
 -
 string.h
@@ -214,9 +214,9 @@ type_traits
 thread
 -
 
-/home/manish/gsldemo/webpp/hellocrow/main.cpp
+/home/manish/gsldemo/webpp/aligatorGAR/main.cpp
 crow_all.h
-/home/manish/gsldemo/webpp/hellocrow/crow_all.h
+/home/manish/gsldemo/webpp/aligatorGAR/crow_all.h
 iostream
 -
 
