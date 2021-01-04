@@ -2,7 +2,9 @@
 
 This repository is BoilerPlate code for future Crow projects
 
-![aligatorGAR](inkfil.github.com/aligatorGAR/static/aligatorGAR.jpg)
+![aligatorGAR](https://github.com/inkfil/aligatorGAR/blob/master/static/aligatorGAR.jpg?raw=true)
+<center><i>this image is taken from internet, if copyrighted please inform me, i have no intention of stealing</i></center>
+
 
 An Experiment to try Crow Web FrameWork in C++
 
